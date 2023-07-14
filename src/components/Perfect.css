@@ -1,0 +1,42 @@
+.container-perfect{
+    display: flex;
+    height: 50vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+    
+    
+    
+}
+.container-second{
+    display: flex;
+    height: 50vh;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.container-trophy{
+    display: flex;
+    
+    
+    flex: 1;
+    flex-direction: column;
+}
+
+.container-right{
+   
+    
+    flex: 3;
+    
+}
+.container-artistic{
+    display: flex;
+    
+   
+    flex: 3;
+}
+.artistic-right{
+    display: flex;
+    
+    
+    flex: 1;
+}

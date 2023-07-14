@@ -1,0 +1,14 @@
+.container-email{
+    display: flex;
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 30vh;
+    justify-content: center;
+}
+
+.wrapper-email{
+    align-items: center;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}

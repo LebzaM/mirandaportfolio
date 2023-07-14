@@ -1,0 +1,15 @@
+.container-footer{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+}
+
+.wrapp{
+    display: flex;
+    gap: 20px;
+    
+}

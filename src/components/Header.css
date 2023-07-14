@@ -1,0 +1,36 @@
+.container-header{
+    display: block;
+    height: 50vh;
+    background-color: #C3BBB2;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+}
+
+.wrapper-header{
+    
+    
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.header-images{
+    
+    width: 30%;
+    padding-left: 10px;
+}
+
+.header-text{
+    
+    border-left: 1px solid black ;
+    border-right: 1px solid black;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    padding-left: 3%;
+    display: flex;
+    flex-direction: column;
+}

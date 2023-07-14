@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Canopee';
+  src: url("./assets/Canopee.otf");
+}
+@font-face {
+  font-family: 'Domain';
+  src: url("./assets/5f242a69b1577e63266b4d72_DomaineDispCondMedium.woff2");
+}
+
+@font-face {
+  font-family: 'Newlight';
+  src: url("./assets/5f242a694256f02b944d5767_EditorialNew-Light.woff2");
+}

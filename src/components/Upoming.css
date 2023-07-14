@@ -1,0 +1,42 @@
+.container-upcoming{
+    display:flex;
+    
+    height: 200vh;
+    padding-left: 5% ;
+    padding-right: 5%;
+    
+}
+
+.wrapper-upcoming{
+    display:flex;
+    flex: 2;
+    
+    flex-wrap: wrap;
+    
+}
+
+.right-wrapper{
+    display:flex;
+    flex: 1;
+   
+    flex-direction: column;
+}
+.colomn{
+    display: flex;
+    flex: 1;
+    
+    height: 25vw;
+    flex-direction: column;
+}
+
+.colomn2{
+    display: flex;
+    flex: 1;
+    
+    height: 25vw;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}

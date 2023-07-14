@@ -1,0 +1,21 @@
+.container-colomn{
+    display: flex;
+    height: 150vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+    
+}
+
+.wrapper-colomn{
+    display: flex;
+    flex:2;
+    
+    flex-direction: column;
+}
+
+.colomn-right{
+    display:block;
+    flex: 3;
+    flex-direction: wrap;
+}

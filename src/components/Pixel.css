@@ -1,0 +1,17 @@
+.container-pixel{
+    display: flex;
+    padding-left: 5%;
+    padding-left: 5%;
+    height: 100vh;
+}
+
+.wrapper-pixel{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.wrapper-right{
+    display: flex;
+    flex: 1;
+}

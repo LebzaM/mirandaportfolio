@@ -1,0 +1,14 @@
+.container-nav{
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    background-color: #C3BBB2;
+    padding-left: 1%;
+    padding-right: 1%;
+    z-index: 999;
+    border-bottom: 1px solid black;
+    
+}

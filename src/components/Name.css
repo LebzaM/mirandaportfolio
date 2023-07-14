@@ -1,0 +1,19 @@
+.container-name{
+    height: 60vh;
+    background-color: black;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    align-items: center;
+    justify-content: center;
+    color: #C3BBB2;
+
+    
+    font-family: 'Canopee';
+}
+
+.containernames{
+    background-color: #C3BBB2;
+    
+   
+}
