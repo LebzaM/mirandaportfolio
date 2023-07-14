@@ -4,7 +4,7 @@ const Email = () => {
   return (
     <div className='container-email'>
         <div className='wrapper-email'>
-            <h1 style={{fontSize:'10vh'}}>Lets create Something Together</h1>
+            <h1 style={{fontSize:'10vh', fontFamily:'Domain'}}>Lets create Something Together</h1>
         </div>
     </div>
   )

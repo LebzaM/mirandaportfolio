@@ -2,7 +2,7 @@ import React from 'react'
 import '../components/Footer.css'
 const Footer = () => {
   return (
-    <div className='container-footer'>
+    <div className='container-footer' style={{fontFamily:'Domain'}}>
       
         <div className='wrapp'>
             <p>Miranda</p>
